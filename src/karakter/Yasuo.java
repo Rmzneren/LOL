@@ -34,7 +34,7 @@ public class Yasuo extends Karakter {
         int hasar = saldiriGucu * 2; 
         String line1 = "\n⚔️ " + isim + " ULTI kullandı: 'Son Nefes'! Kritik hasar: " + hasar; 
         logs.add(line1); 
-        System.out.println(line1); /
+        System.out.println(line1); 
         logs.addAll(hedef.hasarAl(hasar)); 
         ultiKullanildi = true; 
         return logs; 
