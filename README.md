@@ -1,2 +1,2 @@
-selamın aleyküm aslan kardeşlerim
+merhaba
 merhaba rumeli ünüversitesi
