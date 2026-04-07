@@ -13,9 +13,13 @@ Proje, grup çalışması kapsamında geliştirilmiş olup nesne yönelimli prog
 
 
    🧙‍♂️ Farklı karakter seçebilme
+   
    ❤️ Karakterlerin can (HP) sistemi
+   
    💥 Özel yetenek (Ultimate) kullanımı
+   
    📜 Oyun içi log ekranı
+   
        Kalan can bilgisi
        Kullanılan yetenekler
        Savaş durumu
@@ -38,7 +42,12 @@ Bir karakterin canı sıfıra düştüğünde oyun biter
 
 
 👥 Proje Ekibi
+
 👤 Ramazan Eren Veyisoğlu
+
 👤 İsmail Eyioğlu
+
 👤 Şerif Efe Yörük
+
 👤 Muhammed Enes Çakıroğlu
+
