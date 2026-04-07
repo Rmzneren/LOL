@@ -1,12 +1,16 @@
 🎮 LoL Tarzı Java Karakter Savaş Oyunu
+
 📌 Proje Hakkında
 
 Bu proje, Java programlama dili kullanılarak geliştirilmiş, League of Legends tarzı basit bir karakter savaş simülasyonudur.
 Oyuncular farklı karakterler seçerek birbirleriyle stratejik hamleler yaparak savaşır.
 
+
 Proje, grup çalışması kapsamında geliştirilmiş olup nesne yönelimli programlama (OOP) mantığı temel alınmıştır.
 
+
 🚀 Özellikler 
+
 
    🧙‍♂️ Farklı karakter seçebilme
    ❤️ Karakterlerin can (HP) sistemi
