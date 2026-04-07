@@ -23,12 +23,12 @@ Proje, grup çalışması kapsamında geliştirilmiş olup nesne yönelimli prog
        Kalan can bilgisi
        Kullanılan yetenekler
        Savaş durumu
-    🎮 Hamle yapmak için kontrol tuşları
-    ⚔️ Sıra tabanlı savaş sistemi
-    🛠️ Kullanılan Teknolojiler
-    ☕ Java
-    🧠 Nesne Yönelimli Programlama (OOP)
-    💻 Swing / Console
+       Hamle yapmak için kontrol tuşları
+       Sıra tabanlı savaş sistemi
+       Kullanılan Teknolojiler
+       Java
+       Nesne Yönelimli Programlama (OOP)
+       Swing / Console
 
 🎯 Oyun Mantığı
 
